@@ -1,6 +1,6 @@
 plugins {
     id 'java-library' // Подключение плагина для работы с Java библиотеками
-    id "io.qameta.allure" version "2.11.2" // Подключение плагина для интеграции с Allure
+    id "io.qameta.allure" version "3.0.0" // Подключение плагина для интеграции с Allure
 }
 
 group = 'ru.mvideo'
